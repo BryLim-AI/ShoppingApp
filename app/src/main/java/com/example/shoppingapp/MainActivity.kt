@@ -12,8 +12,9 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        //Implementing Lifecycle.
+        //Implementing Lifecycle. Lifecycle aware
+        // Apply Best practices.
         lifecycle.addObserver(MyObserver())
-
+        //https://youtu.be/dMYmZUgncVM?t=471
     }
 }
