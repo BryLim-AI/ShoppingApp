@@ -4,6 +4,6 @@
     <string name="btnSub1" />
     <string name="BtnSub1">-1</string>
     <string name="BtnAdd1">+1</string>
-    <string name="productdesp">"An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. "</string>
+    <string name="productdesp">"An apple is an edible fruit produced by an apple tree.Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus</string>
     <string name="applePrice">Php 120.00</string>
 </resources>
