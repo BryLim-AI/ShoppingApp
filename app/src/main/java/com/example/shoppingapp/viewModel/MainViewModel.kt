@@ -15,7 +15,7 @@ class MainViewModel: ViewModel(){
     init {
         Log.i(LOG_INFO,"MainModel is CREATE");
     }
-
+// https://youtu.be/dMYmZUgncVM?t=1194
     fun loadMessage(){
         _message.value="Live Data"
         // if it will never be null use !!
